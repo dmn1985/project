@@ -1,4 +1,0 @@
-project
-=======
-
-Our small project
